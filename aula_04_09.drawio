@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pJ67ETkopfBpscHhz8Sm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToOne;startFill=0;endArrow=ERone;endFill=0;exitX=0.001;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="pJ67ETkopfBpscHhz8Sm-16" target="pJ67ETkopfBpscHhz8Sm-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pJ67ETkopfBpscHhz8Sm-2" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="370" y="50" width="180" height="150" as="geometry" />
         </mxCell>
@@ -123,6 +120,11 @@
               <mxPoint x="-40" y="135" />
               <mxPoint x="-40" y="39" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pJ67ETkopfBpscHhz8Sm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToOne;startFill=0;endArrow=ERone;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" parent="pJ67ETkopfBpscHhz8Sm-15" source="pJ67ETkopfBpscHhz8Sm-22" target="pJ67ETkopfBpscHhz8Sm-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
